@@ -1,7 +1,7 @@
 # Site settings
-title: Pudhina
+title: Wanjing Han
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+   Wanjing Han's personal website 
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://MoonTea0416.github.io" # the base hostname & protocol for your site
