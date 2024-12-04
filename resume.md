@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CV
-subtitle: Blockchain Security Researcher
+title: Curriculum Vitae
+subtitle: First year Phd student
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
@@ -42,6 +42,5 @@ Technologies used: Ruby on Rails, Kubernetes, Git
 
 ### RECOGNITION & INTERESTS
 
-- **Interests:** Blockchain Security, DeFi, Application Security, Data Analysis  
-- **Awards:** [Any relevant award or recognition]  
-- **Hobbies:** Reading research papers, participating in blockchain hackathons, contributing to open-source projects  
+- **Interests:** DeFi, Application Security, LLM security, Programming Analysis 
+- **Hobbies:** Hiking, swimming, reading
